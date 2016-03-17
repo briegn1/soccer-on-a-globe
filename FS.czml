@@ -1,0 +1,967 @@
+[
+	{
+		"id": "document",
+		"name": "The Globe of World Football",
+		"version": "1.0"
+	},{
+		"id": "1",
+		"name": "Chicago Fire",
+		"description": "<table><tr><td>Team Name</td><td>Chicago Fire</td></tr><tr><td>City</td><td>Chicago</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Toyota Park</td></tr><tr><td>Stadium Capacity</td><td>20000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-87.806134,41.7648273,0]
+		}
+	},{
+		"id": "2",
+		"name": "Colorado Rapids",
+		"description": "<table><tr><td>Team Name</td><td>Colorado Rapids</td></tr><tr><td>City</td><td>Commerce City</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Dick's Sporting Goods Park</td></tr><tr><td>Stadium Capacity</td><td>18086</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-104.8918117,39.8056867,0]
+		}
+	},{
+		"id": "3",
+		"name": "Columbus Crew SC",
+		"description": "<table><tr><td>Team Name</td><td>Columbus Crew SC</td></tr><tr><td>City</td><td>Columbus</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Mapfre Stadium</td></tr><tr><td>Stadium Capacity</td><td>20145</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-82.991228,40.009082,0]
+		}
+	},{
+		"id": "4",
+		"name": "D.C. United",
+		"description": "<table><tr><td>Team Name</td><td>D.C. United</td></tr><tr><td>City</td><td>Washington</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>RFK Stadium</td></tr><tr><td>Stadium Capacity</td><td>20000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-76.9722271,38.889451,0]
+		}
+	},{
+		"id": "5",
+		"name": "FC Dallas",
+		"description": "<table><tr><td>Team Name</td><td>FC Dallas</td></tr><tr><td>City</td><td>Frisco</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Toyota Stadium</td></tr><tr><td>Stadium Capacity</td><td>20500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-96.8351719,33.1543339,0]
+		}
+	},{
+		"id": "6",
+		"name": "Houston Dynamo",
+		"description": "<table><tr><td>Team Name</td><td>Houston Dynamo</td></tr><tr><td>City</td><td>Houston</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>BBVA Compass Stadium</td></tr><tr><td>Stadium Capacity</td><td>22039</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-95.3524146,29.7521988,0]
+		}
+	},{
+		"id": "7",
+		"name": "Los Angeles Galaxy",
+		"description": "<table><tr><td>Team Name</td><td>Los Angeles Galaxy</td></tr><tr><td>City</td><td>Carson</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>StubHub Center</td></tr><tr><td>Stadium Capacity</td><td>27000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-118.2611224,33.8643378,0]
+		}
+	},{
+		"id": "8",
+		"name": "Montreal Impact",
+		"description": "<table><tr><td>Team Name</td><td>Montreal Impact</td></tr><tr><td>City</td><td>Montreal</td></tr><tr><td>Country</td><td>Canada</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Saputo Stadium</td></tr><tr><td>Stadium Capacity</td><td>20801</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-73.5530323,45.5622947,0]
+		}
+	},{
+		"id": "9",
+		"name": "New England Revolution",
+		"description": "<table><tr><td>Team Name</td><td>New England Revolution</td></tr><tr><td>City</td><td>Foxborough</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Gillette Stadium</td></tr><tr><td>Stadium Capacity</td><td>20000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-71.2643465,42.0909458,0]
+		}
+	},{
+		"id": "10",
+		"name": "New York City FC",
+		"description": "<table><tr><td>Team Name</td><td>New York City FC</td></tr><tr><td>City</td><td>New York</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Yankee Stadium</td></tr><tr><td>Stadium Capacity</td><td>30000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-73.9261745,40.829642,0]
+		}
+	},{
+		"id": "11",
+		"name": "New York Red Bulls",
+		"description": "<table><tr><td>Team Name</td><td>New York Red Bulls</td></tr><tr><td>City</td><td>New York</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Red Bull Arena</td></tr><tr><td>Stadium Capacity</td><td>25000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-74.1496956,40.7369888,0]
+		}
+	},{
+		"id": "12",
+		"name": "Orlando City SC",
+		"description": "<table><tr><td>Team Name</td><td>Orlando City SC</td></tr><tr><td>City</td><td>Orlando</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Citrus Bowl</td></tr><tr><td>Stadium Capacity</td><td>19500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-81.4027449,28.5390409,0]
+		}
+	},{
+		"id": "13",
+		"name": "Philadelphia Union",
+		"description": "<table><tr><td>Team Name</td><td>Philadelphia Union</td></tr><tr><td>City</td><td>Chester</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Talen Energy Stadium</td></tr><tr><td>Stadium Capacity</td><td>18500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-75.3784346,39.8327671,0]
+		}
+	},{
+		"id": "14",
+		"name": "Portland Timbers",
+		"description": "<table><tr><td>Team Name</td><td>Portland Timbers</td></tr><tr><td>City</td><td>Portland</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Providence Park</td></tr><tr><td>Stadium Capacity</td><td>21144</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-122.6916811,45.5215978,0]
+		}
+	},{
+		"id": "15",
+		"name": "Real Salt Lake",
+		"description": "<table><tr><td>Team Name</td><td>Real Salt Lake</td></tr><tr><td>City</td><td>Salt Lake City</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Rio Tinto Stadium</td></tr><tr><td>Stadium Capacity</td><td>20213</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-111.8933608,40.5829314,0]
+		}
+	},{
+		"id": "16",
+		"name": "San Jose Earthquakes",
+		"description": "<table><tr><td>Team Name</td><td>San Jose Earthquakes</td></tr><tr><td>City</td><td>San Jose</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Avaya Stadium</td></tr><tr><td>Stadium Capacity</td><td>18000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-121.9253289,37.3512567,0]
+		}
+	},{
+		"id": "17",
+		"name": "Seattle Sounders FC",
+		"description": "<table><tr><td>Team Name</td><td>Seattle Sounders FC</td></tr><tr><td>City</td><td>Seattle</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>CenturyLink Field</td></tr><tr><td>Stadium Capacity</td><td>40000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-122.3316393,47.5951518,0]
+		}
+	},{
+		"id": "18",
+		"name": "Sporting Kansas City",
+		"description": "<table><tr><td>Team Name</td><td>Sporting Kansas City</td></tr><tr><td>City</td><td>Kansas City</td></tr><tr><td>Country</td><td>USA</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>Children's Mercy Park</td></tr><tr><td>Stadium Capacity</td><td>18467</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-94.8233414,39.1214043,0]
+		}
+	},{
+		"id": "19",
+		"name": "Toronto FC",
+		"description": "<table><tr><td>Team Name</td><td>Toronto FC</td></tr><tr><td>City</td><td>Toronto</td></tr><tr><td>Country</td><td>Canada</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>BMO Field</td></tr><tr><td>Stadium Capacity</td><td>30991</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-79.4187182,43.6331399,0]
+		}
+	},{
+		"id": "20",
+		"name": "Vancouver Whitecaps FC",
+		"description": "<table><tr><td>Team Name</td><td>Vancouver Whitecaps FC</td></tr><tr><td>City</td><td>Vancouver</td></tr><tr><td>Country</td><td>Canada</td></tr><tr><td>League</td><td>Major League Soccer</td></tr><tr><td>Stadium Name</td><td>BC Place</td></tr><tr><td>Stadium Capacity</td><td>22500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-123.111999,49.27675,0]
+		}
+	},{
+		"id": "21",
+		"name": "A.F.C. Bournemouth",
+		"description": "<table><tr><td>Team Name</td><td>A.F.C. Bournemouth</td></tr><tr><td>City</td><td>Bournemouth</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Dean Court</td></tr><tr><td>Stadium Capacity</td><td>11700</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-1.838333,50.735278,0]
+		}
+	},{
+		"id": "22",
+		"name": "Arsenal",
+		"description": "<table><tr><td>Team Name</td><td>Arsenal</td></tr><tr><td>City</td><td>London</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Emirates Stadium</td></tr><tr><td>Stadium Capacity</td><td>60272</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.108611,51.555,0]
+		}
+	},{
+		"id": "23",
+		"name": "Aston Villa",
+		"description": "<table><tr><td>Team Name</td><td>Aston Villa</td></tr><tr><td>City</td><td>Birmingham</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Villa Park</td></tr><tr><td>Stadium Capacity</td><td>42682</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-1.884722,52.509167,0]
+		}
+	},{
+		"id": "24",
+		"name": "Chelsea",
+		"description": "<table><tr><td>Team Name</td><td>Chelsea</td></tr><tr><td>City</td><td>London</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Stamford Bridge</td></tr><tr><td>Stadium Capacity</td><td>41798</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.191111,51.481667,0]
+		}
+	},{
+		"id": "25",
+		"name": "Crystal Palace",
+		"description": "<table><tr><td>Team Name</td><td>Crystal Palace</td></tr><tr><td>City</td><td>London</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Selhurst Park</td></tr><tr><td>Stadium Capacity</td><td>26309</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.085556,51.398333,0]
+		}
+	},{
+		"id": "26",
+		"name": "Everton",
+		"description": "<table><tr><td>Team Name</td><td>Everton</td></tr><tr><td>City</td><td>Liverpool</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Goodison Park</td></tr><tr><td>Stadium Capacity</td><td>39571</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-2.966389,53.438889,0]
+		}
+	},{
+		"id": "27",
+		"name": "Leicester City",
+		"description": "<table><tr><td>Team Name</td><td>Leicester City</td></tr><tr><td>City</td><td>Leicester</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>King Power Stadium</td></tr><tr><td>Stadium Capacity</td><td>32500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-1.142222,52.620278,0]
+		}
+	},{
+		"id": "28",
+		"name": "Liverpool",
+		"description": "<table><tr><td>Team Name</td><td>Liverpool</td></tr><tr><td>City</td><td>Liverpool</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Anfield</td></tr><tr><td>Stadium Capacity</td><td>45276</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-2.960833,53.430833,0]
+		}
+	},{
+		"id": "29",
+		"name": "Manchester City",
+		"description": "<table><tr><td>Team Name</td><td>Manchester City</td></tr><tr><td>City</td><td>Manchester</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Etihad Stadium</td></tr><tr><td>Stadium Capacity</td><td>55000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-2.200278,53.483056,0]
+		}
+	},{
+		"id": "30",
+		"name": "Manchester United",
+		"description": "<table><tr><td>Team Name</td><td>Manchester United</td></tr><tr><td>City</td><td>Manchester</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Old Trafford</td></tr><tr><td>Stadium Capacity</td><td>75635</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-2.291389,53.463056,0]
+		}
+	},{
+		"id": "31",
+		"name": "Newcastle United",
+		"description": "<table><tr><td>Team Name</td><td>Newcastle United</td></tr><tr><td>City</td><td>Newcastle</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>St. James' Park</td></tr><tr><td>Stadium Capacity</td><td>52405</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-1.621667,54.975556,0]
+		}
+	},{
+		"id": "32",
+		"name": "Norwich City",
+		"description": "<table><tr><td>Team Name</td><td>Norwich City</td></tr><tr><td>City</td><td>Norwich</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Carrow Road</td></tr><tr><td>Stadium Capacity</td><td>27033</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [1.309167,52.622222,0]
+		}
+	},{
+		"id": "33",
+		"name": "Southampton",
+		"description": "<table><tr><td>Team Name</td><td>Southampton</td></tr><tr><td>City</td><td>Southampton</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>St. Mary's Stadium</td></tr><tr><td>Stadium Capacity</td><td>32689</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-1.391111,50.905833,0]
+		}
+	},{
+		"id": "34",
+		"name": "Stoke City",
+		"description": "<table><tr><td>Team Name</td><td>Stoke City</td></tr><tr><td>City</td><td>Stoke</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Britannia Stadium</td></tr><tr><td>Stadium Capacity</td><td>27740</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-2.175556,52.988333,0]
+		}
+	},{
+		"id": "35",
+		"name": "Sunderland",
+		"description": "<table><tr><td>Team Name</td><td>Sunderland</td></tr><tr><td>City</td><td>Sunderland</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Stadium of Light</td></tr><tr><td>Stadium Capacity</td><td>49000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-1.388333,54.914444,0]
+		}
+	},{
+		"id": "36",
+		"name": "Swansea City",
+		"description": "<table><tr><td>Team Name</td><td>Swansea City</td></tr><tr><td>City</td><td>Swansea</td></tr><tr><td>Country</td><td>Wales</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Liberty Stadium</td></tr><tr><td>Stadium Capacity</td><td>20937</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-3.934722,51.642778,0]
+		}
+	},{
+		"id": "37",
+		"name": "Tottenham Hotspur",
+		"description": "<table><tr><td>Team Name</td><td>Tottenham Hotspur</td></tr><tr><td>City</td><td>London</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>White Hart Lane</td></tr><tr><td>Stadium Capacity</td><td>36284</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.065833,51.603333,0]
+		}
+	},{
+		"id": "38",
+		"name": "Watford",
+		"description": "<table><tr><td>Team Name</td><td>Watford</td></tr><tr><td>City</td><td>Watford</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Vicarage Road</td></tr><tr><td>Stadium Capacity</td><td>21577</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.401667,51.65,0]
+		}
+	},{
+		"id": "39",
+		"name": "West Bromwich Albion",
+		"description": "<table><tr><td>Team Name</td><td>West Bromwich Albion</td></tr><tr><td>City</td><td>West Bromwich</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>The Hawthorns</td></tr><tr><td>Stadium Capacity</td><td>26445</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-1.9638889,52.509167,0]
+		}
+	},{
+		"id": "40",
+		"name": "West Ham United",
+		"description": "<table><tr><td>Team Name</td><td>West Ham United</td></tr><tr><td>City</td><td>London</td></tr><tr><td>Country</td><td>England</td></tr><tr><td>League</td><td>Premier League</td></tr><tr><td>Stadium Name</td><td>Boleyn Ground</td></tr><tr><td>Stadium Capacity</td><td>35345</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [0.039444,51.531944,0]
+		}
+	},{
+		"id": "41",
+		"name": "1. FC Koln",
+		"description": "<table><tr><td>Team Name</td><td>1. FC Koln</td></tr><tr><td>City</td><td>Cologne</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>RheinEnergieStadion</td></tr><tr><td>Stadium Capacity</td><td>50000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [6.872958,50.9334609,0]
+		}
+	},{
+		"id": "42",
+		"name": "1899 Hoffenheim",
+		"description": "<table><tr><td>Team Name</td><td>1899 Hoffenheim</td></tr><tr><td>City</td><td>Sinsheim</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Wirsol Rhein-Neckar-Arena</td></tr><tr><td>Stadium Capacity</td><td>30150</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [8.885636,49.2380877,0]
+		}
+	},{
+		"id": "43",
+		"name": "Bayer Leverkusen",
+		"description": "<table><tr><td>Team Name</td><td>Bayer Leverkusen</td></tr><tr><td>City</td><td>Leverkusen</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>BayArena</td></tr><tr><td>Stadium Capacity</td><td>30210</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [7.0000679,51.0382091,0]
+		}
+	},{
+		"id": "44",
+		"name": "Bayern Munich",
+		"description": "<table><tr><td>Team Name</td><td>Bayern Munich</td></tr><tr><td>City</td><td>Munich</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Allianz Arena</td></tr><tr><td>Stadium Capacity</td><td>75000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [11.6225185,48.2187997,0]
+		}
+	},{
+		"id": "45",
+		"name": "Borussia Dortmund",
+		"description": "<table><tr><td>Team Name</td><td>Borussia Dortmund</td></tr><tr><td>City</td><td>Dortmund</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Signal Iduna Park</td></tr><tr><td>Stadium Capacity</td><td>81359</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [7.4496687,51.4925888,0]
+		}
+	},{
+		"id": "46",
+		"name": "Borussia Monchengladbach",
+		"description": "<table><tr><td>Team Name</td><td>Borussia Monchengladbach</td></tr><tr><td>City</td><td>Monchengladbach</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Stadion im Borussia-Park</td></tr><tr><td>Stadium Capacity</td><td>54010</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [6.3833168,51.1745698,0]
+		}
+	},{
+		"id": "47",
+		"name": "Darmstadt 98",
+		"description": "<table><tr><td>Team Name</td><td>Darmstadt 98</td></tr><tr><td>City</td><td>Darmstadt</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Merck-Stadion am Bollenfalltor</td></tr><tr><td>Stadium Capacity</td><td>17000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [8.6701891,49.857722,0]
+		}
+	},{
+		"id": "48",
+		"name": "Eintracht Frankfurt",
+		"description": "<table><tr><td>Team Name</td><td>Eintracht Frankfurt</td></tr><tr><td>City</td><td>Frankfurt</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Commerzbank-Arena</td></tr><tr><td>Stadium Capacity</td><td>51500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [8.6432833,50.0685807,0]
+		}
+	},{
+		"id": "49",
+		"name": "FC Augsburg",
+		"description": "<table><tr><td>Team Name</td><td>FC Augsburg</td></tr><tr><td>City</td><td>Augsburg</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>WWK ARENA</td></tr><tr><td>Stadium Capacity</td><td>30660</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [10.886,48.323139,0]
+		}
+	},{
+		"id": "50",
+		"name": "FC Ingolstadt",
+		"description": "<table><tr><td>Team Name</td><td>FC Ingolstadt</td></tr><tr><td>City</td><td>Ingolstadt</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Audi-Sportpark</td></tr><tr><td>Stadium Capacity</td><td>15000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [11.4810349,48.7454622,0]
+		}
+	},{
+		"id": "51",
+		"name": "Hamburger SV",
+		"description": "<table><tr><td>Team Name</td><td>Hamburger SV</td></tr><tr><td>City</td><td>Hamburg</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Volksparkstadion</td></tr><tr><td>Stadium Capacity</td><td>57000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [9.8964117,53.5871279,0]
+		}
+	},{
+		"id": "52",
+		"name": "Hannover 96",
+		"description": "<table><tr><td>Team Name</td><td>Hannover 96</td></tr><tr><td>City</td><td>Hanover</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>HDI-Arena</td></tr><tr><td>Stadium Capacity</td><td>49000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [9.7290051,52.3600211,0]
+		}
+	},{
+		"id": "53",
+		"name": "Hertha BSC",
+		"description": "<table><tr><td>Team Name</td><td>Hertha BSC</td></tr><tr><td>City</td><td>Berlin</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Olympiastadion</td></tr><tr><td>Stadium Capacity</td><td>74475</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [13.2373099,52.5146971,0]
+		}
+	},{
+		"id": "54",
+		"name": "Mainz 05",
+		"description": "<table><tr><td>Team Name</td><td>Mainz 05</td></tr><tr><td>City</td><td>Mainz</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Coface Arena</td></tr><tr><td>Stadium Capacity</td><td>34000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [8.2222116,49.9839442,0]
+		}
+	},{
+		"id": "55",
+		"name": "Schalke 04",
+		"description": "<table><tr><td>Team Name</td><td>Schalke 04</td></tr><tr><td>City</td><td>Gelsenkirchen</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Veltins-Arena</td></tr><tr><td>Stadium Capacity</td><td>62271</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [7.0653375,51.5546309,0]
+		}
+	},{
+		"id": "56",
+		"name": "VfB Stuttgart",
+		"description": "<table><tr><td>Team Name</td><td>VfB Stuttgart</td></tr><tr><td>City</td><td>Stuttgart</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Mercedes-Benz Arena</td></tr><tr><td>Stadium Capacity</td><td>60441</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [9.2298913,48.7922577,0]
+		}
+	},{
+		"id": "57",
+		"name": "VfL Wolfsburg",
+		"description": "<table><tr><td>Team Name</td><td>VfL Wolfsburg</td></tr><tr><td>City</td><td>Wolfsburg</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Volkswagen Arena</td></tr><tr><td>Stadium Capacity</td><td>30000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [10.8017003,52.432639,0]
+		}
+	},{
+		"id": "58",
+		"name": "Werder Bremen",
+		"description": "<table><tr><td>Team Name</td><td>Werder Bremen</td></tr><tr><td>City</td><td>Bremen</td></tr><tr><td>Country</td><td>Germany</td></tr><tr><td>League</td><td>Bundesliga</td></tr><tr><td>Stadium Name</td><td>Weserstadion</td></tr><tr><td>Stadium Capacity</td><td>42100</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [8.8354165,53.0664328,0]
+		}
+	},{
+		"id": "59",
+		"name": "Atletico Bilbao",
+		"description": "<table><tr><td>Team Name</td><td>Atletico Bilbao</td></tr><tr><td>City</td><td>Bilbao</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Estadio San Mames</td></tr><tr><td>Stadium Capacity</td><td>53289</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-2.9488527,43.2643372,0]
+		}
+	},{
+		"id": "60",
+		"name": "Atletico Madrid",
+		"description": "<table><tr><td>Team Name</td><td>Atletico Madrid</td></tr><tr><td>City</td><td>Madrid</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Vincente Calderon Stadium</td></tr><tr><td>Stadium Capacity</td><td>54907</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-3.7203241,40.4016875,0]
+		}
+	},{
+		"id": "61",
+		"name": "Barcelona",
+		"description": "<table><tr><td>Team Name</td><td>Barcelona</td></tr><tr><td>City</td><td>Barcelona</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Camp Nou</td></tr><tr><td>Stadium Capacity</td><td>99786</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [2.1234421,41.3810288,0]
+		}
+	},{
+		"id": "62",
+		"name": "Real Betis",
+		"description": "<table><tr><td>Team Name</td><td>Real Betis</td></tr><tr><td>City</td><td>Sevilla</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Benito Villamarin Stadium</td></tr><tr><td>Stadium Capacity</td><td>52500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-5.9814946,37.356525,0]
+		}
+	},{
+		"id": "63",
+		"name": "Celta Vigo",
+		"description": "<table><tr><td>Team Name</td><td>Celta Vigo</td></tr><tr><td>City</td><td>Vigo</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Estadio de Balaidos</td></tr><tr><td>Stadium Capacity</td><td>29000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-8.739913,42.2120166,0]
+		}
+	},{
+		"id": "64",
+		"name": "Deportivo La Coruna",
+		"description": "<table><tr><td>Team Name</td><td>Deportivo La Coruna</td></tr><tr><td>City</td><td>La Coruna</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Ciudad Deportiva de Riazor</td></tr><tr><td>Stadium Capacity</td><td>34639</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-8.4169471,43.3686677,0]
+		}
+	},{
+		"id": "65",
+		"name": "Eibar",
+		"description": "<table><tr><td>Team Name</td><td>Eibar</td></tr><tr><td>City</td><td>Eibar</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Estadio Ipurua</td></tr><tr><td>Stadium Capacity</td><td>6300</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-2.4757003,43.1817554,0]
+		}
+	},{
+		"id": "66",
+		"name": "Espanyol",
+		"description": "<table><tr><td>Team Name</td><td>Espanyol</td></tr><tr><td>City</td><td>Barcelona</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Cornella-El Prat Stadium</td></tr><tr><td>Stadium Capacity</td><td>40500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [2.0755592,41.3478567,0]
+		}
+	},{
+		"id": "67",
+		"name": "Getafe",
+		"description": "<table><tr><td>Team Name</td><td>Getafe</td></tr><tr><td>City</td><td>Getafe</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Coliseum Alfonso Perez</td></tr><tr><td>Stadium Capacity</td><td>17393</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-3.714897,40.3258044,0]
+		}
+	},{
+		"id": "68",
+		"name": "Granada",
+		"description": "<table><tr><td>Team Name</td><td>Granada</td></tr><tr><td>City</td><td>Granada</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Nuevo Estadio Los Carmenes</td></tr><tr><td>Stadium Capacity</td><td>22524</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-3.5955279,37.1528278,0]
+		}
+	},{
+		"id": "69",
+		"name": "Las Palmas",
+		"description": "<table><tr><td>Team Name</td><td>Las Palmas</td></tr><tr><td>City</td><td>Las Palmas</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Estadio Gran Canaria</td></tr><tr><td>Stadium Capacity</td><td>32150</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-15.4563594,28.1003258,0]
+		}
+	},{
+		"id": "70",
+		"name": "Levante",
+		"description": "<table><tr><td>Team Name</td><td>Levante</td></tr><tr><td>City</td><td>Valencia</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Estadio Ciutad de Valencia</td></tr><tr><td>Stadium Capacity</td><td>25534</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.3636539,39.494661,0]
+		}
+	},{
+		"id": "71",
+		"name": "Malaga",
+		"description": "<table><tr><td>Team Name</td><td>Malaga</td></tr><tr><td>City</td><td>Malaga</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>La Rosaleda</td></tr><tr><td>Stadium Capacity</td><td>30044</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-4.4269562,36.7340684,0]
+		}
+	},{
+		"id": "72",
+		"name": "Rayo Vallecano",
+		"description": "<table><tr><td>Team Name</td><td>Rayo Vallecano</td></tr><tr><td>City</td><td>Madrid</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Campo de Futbol de Vallecas</td></tr><tr><td>Stadium Capacity</td><td>14708</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-3.6586787,40.3918746,0]
+		}
+	},{
+		"id": "73",
+		"name": "Real Madrid",
+		"description": "<table><tr><td>Team Name</td><td>Real Madrid</td></tr><tr><td>City</td><td>Madrid</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Santiago Bernabeu</td></tr><tr><td>Stadium Capacity</td><td>85454</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-3.6882862,40.4530176,0]
+		}
+	},{
+		"id": "74",
+		"name": "Real Sociedad",
+		"description": "<table><tr><td>Team Name</td><td>Real Sociedad</td></tr><tr><td>City</td><td>San Sebastian</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Anoeta Stadium</td></tr><tr><td>Stadium Capacity</td><td>32076</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-1.9730584,43.3014584,0]
+		}
+	},{
+		"id": "75",
+		"name": "Sevilla",
+		"description": "<table><tr><td>Team Name</td><td>Sevilla</td></tr><tr><td>City</td><td>Sevilla</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Ramon Sanchez Pizjuan</td></tr><tr><td>Stadium Capacity</td><td>45500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-5.9704806,37.3840443,0]
+		}
+	},{
+		"id": "76",
+		"name": "Sporting de Gijon",
+		"description": "<table><tr><td>Team Name</td><td>Sporting de Gijon</td></tr><tr><td>City</td><td>Gijon</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Estadio El Molinon</td></tr><tr><td>Stadium Capacity</td><td>29029</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-5.6373074,43.5362844,0]
+		}
+	},{
+		"id": "77",
+		"name": "Valencia",
+		"description": "<table><tr><td>Team Name</td><td>Valencia</td></tr><tr><td>City</td><td>Valencia</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>Estadio de Mestalla</td></tr><tr><td>Stadium Capacity</td><td>55000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.3579619,39.4745276,0]
+		}
+	},{
+		"id": "78",
+		"name": "Villarreal",
+		"description": "<table><tr><td>Team Name</td><td>Villarreal</td></tr><tr><td>City</td><td>Villareal</td></tr><tr><td>Country</td><td>Spain</td></tr><tr><td>League</td><td>La Liga</td></tr><tr><td>Stadium Name</td><td>El Madrigal</td></tr><tr><td>Stadium Capacity</td><td>24890</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.1031202,39.9441243,0]
+		}
+	},{
+		"id": "79",
+		"name": "America",
+		"description": "<table><tr><td>Team Name</td><td>America</td></tr><tr><td>City</td><td>Mexico City</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Azteca</td></tr><tr><td>Stadium Capacity</td><td>95000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-99.150517,19.3029569,0]
+		}
+	},{
+		"id": "80",
+		"name": "Atlas",
+		"description": "<table><tr><td>Team Name</td><td>Atlas</td></tr><tr><td>City</td><td>Guadalajara</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Jalisco</td></tr><tr><td>Stadium Capacity</td><td>56713</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-103.3281125,20.7051502,0]
+		}
+	},{
+		"id": "81",
+		"name": "Chiapas",
+		"description": "<table><tr><td>Team Name</td><td>Chiapas</td></tr><tr><td>City</td><td>Tuxtla Gutierrez</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Zoque Victor Manuel Reyna</td></tr><tr><td>Stadium Capacity</td><td>24290</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-93.0962401,16.7627554,0]
+		}
+	},{
+		"id": "82",
+		"name": "Cruz Azul",
+		"description": "<table><tr><td>Team Name</td><td>Cruz Azul</td></tr><tr><td>City</td><td>Mexico City</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Azul</td></tr><tr><td>Stadium Capacity</td><td>33042</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-99.1784585,19.3835127,0]
+		}
+	},{
+		"id": "83",
+		"name": "Guadalajara",
+		"description": "<table><tr><td>Team Name</td><td>Guadalajara</td></tr><tr><td>City</td><td>Zapopan</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Omnilife</td></tr><tr><td>Stadium Capacity</td><td>46232</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-103.4626348,20.6818216,0]
+		}
+	},{
+		"id": "84",
+		"name": "Leon",
+		"description": "<table><tr><td>Team Name</td><td>Leon</td></tr><tr><td>City</td><td>Leon</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Leon Stadium</td></tr><tr><td>Stadium Capacity</td><td>31297</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-101.6577565,21.1156505,0]
+		}
+	},{
+		"id": "85",
+		"name": "Monterrey",
+		"description": "<table><tr><td>Team Name</td><td>Monterrey</td></tr><tr><td>City</td><td>Monterrey</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio BBVA Bancomer</td></tr><tr><td>Stadium Capacity</td><td>51000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-100.2446171,25.6690874,0]
+		}
+	},{
+		"id": "86",
+		"name": "Morelia",
+		"description": "<table><tr><td>Team Name</td><td>Morelia</td></tr><tr><td>City</td><td>Morelia</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Jose Maria Morelos y Pavon</td></tr><tr><td>Stadium Capacity</td><td>35000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-101.2333357,19.7187932,0]
+		}
+	},{
+		"id": "87",
+		"name": "Pachuca",
+		"description": "<table><tr><td>Team Name</td><td>Pachuca</td></tr><tr><td>City</td><td>Pachuca</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Hidalgo</td></tr><tr><td>Stadium Capacity</td><td>30000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-98.7563503,20.1052313,0]
+		}
+	},{
+		"id": "88",
+		"name": "Puebla",
+		"description": "<table><tr><td>Team Name</td><td>Puebla</td></tr><tr><td>City</td><td>Puebla City</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Cuauhtemoc</td></tr><tr><td>Stadium Capacity</td><td>50754</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-98.1647752,19.0778748,0]
+		}
+	},{
+		"id": "89",
+		"name": "Queretaro",
+		"description": "<table><tr><td>Team Name</td><td>Queretaro</td></tr><tr><td>City</td><td>Queretaro City</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>La Corregidora Stadium</td></tr><tr><td>Stadium Capacity</td><td>34045</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-100.3661137,20.5777215,0]
+		}
+	},{
+		"id": "90",
+		"name": "Santos Laguna",
+		"description": "<table><tr><td>Team Name</td><td>Santos Laguna</td></tr><tr><td>City</td><td>Torreon</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Corona</td></tr><tr><td>Stadium Capacity</td><td>31000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-103.3798973,25.6287156,0]
+		}
+	},{
+		"id": "91",
+		"name": "Sinaloa",
+		"description": "<table><tr><td>Team Name</td><td>Sinaloa</td></tr><tr><td>City</td><td>Culiacan</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Banorte</td></tr><tr><td>Stadium Capacity</td><td>17898</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-107.4044103,24.830369,0]
+		}
+	},{
+		"id": "92",
+		"name": "Tijuana",
+		"description": "<table><tr><td>Team Name</td><td>Tijuana</td></tr><tr><td>City</td><td>Tijuana</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Caliente</td></tr><tr><td>Stadium Capacity</td><td>27333</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-116.9928718,32.506038,0]
+		}
+	},{
+		"id": "93",
+		"name": "Toluca",
+		"description": "<table><tr><td>Team Name</td><td>Toluca</td></tr><tr><td>City</td><td>Toluca</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Nemesio Diez</td></tr><tr><td>Stadium Capacity</td><td>18651</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-99.6664122,19.2874363,0]
+		}
+	},{
+		"id": "94",
+		"name": "UANL",
+		"description": "<table><tr><td>Team Name</td><td>UANL</td></tr><tr><td>City</td><td>San Nicolas de los Garza</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Universitario</td></tr><tr><td>Stadium Capacity</td><td>42000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-100.3119474,25.722428,0]
+		}
+	},{
+		"id": "95",
+		"name": "UNAM",
+		"description": "<table><tr><td>Team Name</td><td>UNAM</td></tr><tr><td>City</td><td>Mexico City</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Olimpico Universitario</td></tr><tr><td>Stadium Capacity</td><td>52000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-99.19177,19.3318973,0]
+		}
+	},{
+		"id": "96",
+		"name": "Veracruz",
+		"description": "<table><tr><td>Team Name</td><td>Veracruz</td></tr><tr><td>City</td><td>Veracruz City</td></tr><tr><td>Country</td><td>Mexico</td></tr><tr><td>League</td><td>Liga MX</td></tr><tr><td>Stadium Name</td><td>Estadio Luis “Pirata” de la Fuente</td></tr><tr><td>Stadium Capacity</td><td>28703</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-96.1247743,19.164342,0]
+		}
+	}
+]

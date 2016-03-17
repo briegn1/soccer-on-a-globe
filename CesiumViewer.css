@@ -1,0 +1,103 @@
+@import url(../../cesium/Widgets/widgets.css);
+@import url(../../cesium/Widgets/lighter.css);
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    background: #000;
+}
+
+.fullWindow {
+	position: absolute;
+	top: 0;
+	left: 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.loadingIndicator {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -33px;
+    margin-left: -33px;
+    width: 300px;
+    height: 50px;
+	font: 40px sans-serif;
+	background-color: rgba(255,255,255,0.7);
+	border-radius: 10px;
+	text-align: center;
+    /**background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../../cesium/ViewerStuff/Images/ajax-loader.gif);**/
+}
+
+.hdr {
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: rgba(42,42,42,0.8);
+	color: white;
+	padding: 4px;
+	border-radius: 4px;
+	height: 20px;
+	width: 250px;
+	z-index: 5;
+}
+
+.toolbar {
+	position: absolute;
+	left: 0;
+	background: rgba(42,42,42,0.8);
+	color: #ffffff;
+	padding: 4px;
+	border-radius: 4px;
+	height: 20px;
+	width: 250px;
+	z-index: 5;
+}
+
+.cbar {
+	position: absolute;
+	top: 110px;
+	left: 0;
+	background: rgba(42,42,42,0.8);
+	color: white;
+	padding: 4px;
+	border-radius: 4px;
+	height: 300px;
+	width: 250px;
+	text-align: center;
+	z-index: 5;
+}
+
+.ibar {
+	position: absolute;
+	top: 50px;
+	right: 7px;
+	background: rgba(42,42,42,0.8);
+	color: white;
+	padding: 4px;
+	border-radius: 4px;
+	height: 605px;
+	width: 275px;
+	text-align: left;
+	z-index: 5;
+	text-indent: 2em;
+}
+
+.cesium-navigation-help-visible {
+	z-index: 10;
+}
