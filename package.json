@@ -11,6 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/briegn1/soccer-on-a-globe.git"
   },
+  "dependencies": {
+        "express": "~4.9.x",
+        "compression": "1.0.8",
+        "request": "2.36.0",
+        "yargs": "1.2.6",
+		"cesium": "1.19.0"
+    },
   "keywords": [
     "soccer",
     "football",
