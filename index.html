@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">  <!-- Use Chrome Frame in IE -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+		<title>Globe of World Soccer</title>
+		<link rel="stylesheet" href="./node_modules/cesium/CesiumViewer.css" media="screen">
+		<script src="./node_modules/cesium/Build/CesiumUnminified/Cesium.js"></script>
+		<script src="./external/jquery-1.12.0.min.js"></script>
+		<style>
+			@import url(node_modules/cesium/Source/Widgets/widgets.css);
+			@import url(node_modules/cesium/Source/Widgets/lighter.css);
+		</style>
+	</head>
+	<body>
+		<div id="cesiumContainer" class="fullSize"></div>
+		<select id="teams" style="position: absolute; left: 5px; top: 5px; z-index: 5;">
+			<option disabled>--Choose a Team--</option>
+		</select>
+		<!--<div id="loadingOverlay"><h1>Loading...</h1></div>-->
+	</body>
+	<script>
+		var viewer = new Cesium.Viewer('cesiumContainer',{
+			animation: false,
+			baseLayerPicker: false,
+			geocoder: false,
+			sceneModePicker: false,
+			timeline: false
+		});
+		
+		var czml = Cesium.CzmlDataSource.load('./data/FS.czml');
+		czml.then(function(dataSource) {
+			viewer.dataSources.add(dataSource);
+			viewer.zoomTo(dataSource);
+			var teams = dataSource.entities.values;
+			for (var k=0;k<teams.length;k++) {
+				teams[k].viewFrom = new Cesium.Cartesian3(0,0,1000);
+				$('#teams').append('<option value="'+teams[k].id+'">'+teams[k].name+'</option>')
+			}
+		});
+		
+		document.getElementById('teams').onchange = function() {
+			viewer.selectedEntity = undefined;
+			console.log($('#teams option:selected').val());
+			viewer.flyTo(viewer.dataSources.get(0).entities.getById($('#teams option:selected').val()),{offset: new Cesium.HeadingPitchRange(0,Cesium.Math.toRadians(-90),1000)}).then(function() {
+				this.viewer.selectedEntity = this.viewer.dataSources.get(0).entities.getById($('#teams option:selected').val());
+			});
+		};
+	</script>
+</html>

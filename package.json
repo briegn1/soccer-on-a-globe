@@ -1,0 +1,25 @@
+{
+  "name": "soccer-on-a-globe",
+  "version": "1.0.0",
+  "description": "Visualizing international soccer clubs and stadiums using CesiumJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briegn1/soccer-on-a-globe.git"
+  },
+  "keywords": [
+    "soccer",
+    "football",
+    "Cesium"
+  ],
+  "author": "Matt Lammers <mlammers08@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briegn1/soccer-on-a-globe/issues"
+  },
+  "homepage": "https://github.com/briegn1/soccer-on-a-globe#readme"
+}
