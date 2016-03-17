@@ -1,0 +1,6 @@
+[submodule "cesium"]
+	path = cesium
+	url = git://github.com/AnalyticalGraphicsInc/cesium.git
+[submodule "external/cesium"]
+	path = external/cesium
+	url = git://github.com/AnalyticalGraphicsInc/cesium.git
