@@ -1,7 +1,0 @@
-Outstanding Issues:
-
- - When icon clicked, change selected in dropdown
- - When camera button pressed on selected icon, then navigation activated by dropdown, it ignores offset properties...maybe switch to zoomTo in that case?
- - Fix coordinates on: Bayern Munich (check all German and MLS locations)
- - Soccer ball disappears sometimes on flyTo/zoomTo
- - Add league names to dropdown? Or make a input field with autocomplete?
