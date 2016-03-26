@@ -1363,5 +1363,345 @@
 		"position": {
 			"cartographicDegrees": [4.0984348,48.3075473,0]
 		}
+	},{
+		"id": "137",
+		"name": "Beijing Guoan",
+		"description": "<table><tr><td>Team Name</td><td>Beijing Guoan</td></tr><tr><td>City</td><td>Beijing</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Workers Stadium</td></tr><tr><td>Stadium Capacity</td><td>66000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [116.4410623,39.929092,0]
+		}
+	},{
+		"id": "138",
+		"name": "Changchun Yatai",
+		"description": "<table><tr><td>Team Name</td><td>Changchun Yatai</td></tr><tr><td>City</td><td>Changchun</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Development Area Stadium</td></tr><tr><td>Stadium Capacity</td><td>25000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [125.39061,43.83682,0]
+		}
+	},{
+		"id": "139",
+		"name": "Chongqing Lifan",
+		"description": "<table><tr><td>Team Name</td><td>Chongqing Lifan</td></tr><tr><td>City</td><td>Chongqing</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Chongqing Olympic Sports Center</td></tr><tr><td>Stadium Capacity</td><td>58600</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [106.502243,29.528707,0]
+		}
+	},{
+		"id": "140",
+		"name": "Guangzhou Evergrande Taobao",
+		"description": "<table><tr><td>Team Name</td><td>Guangzhou Evergrande Taobao</td></tr><tr><td>City</td><td>Guangzhou</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Tianhe Stadium</td></tr><tr><td>Stadium Capacity</td><td>58500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [113.319261,23.140546,0]
+		}
+	},{
+		"id": "141",
+		"name": "Guangzhou R&F",
+		"description": "<table><tr><td>Team Name</td><td>Guangzhou R&F</td></tr><tr><td>City</td><td>Guangzhou</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Yuexiushan Stadium</td></tr><tr><td>Stadium Capacity</td><td>30000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [113.260795,23.139178,0]
+		}
+	},{
+		"id": "142",
+		"name": "Hangzhou Greentown",
+		"description": "<table><tr><td>Team Name</td><td>Hangzhou Greentown</td></tr><tr><td>City</td><td>Hangzhou</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Yellow Dragon Sports Center</td></tr><tr><td>Stadium Capacity</td><td>52600</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [120.128871,30.268456,0]
+		}
+	},{
+		"id": "143",
+		"name": "Hebei CFFC",
+		"description": "<table><tr><td>Team Name</td><td>Hebei CFFC</td></tr><tr><td>City</td><td>Qinhuangdao</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Qinhuangdao Olympic Sports Center Stadium</td></tr><tr><td>Stadium Capacity</td><td>33572</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [119.547591,39.907299,0]
+		}
+	},{
+		"id": "144",
+		"name": "Henan Jianye",
+		"description": "<table><tr><td>Team Name</td><td>Henan Jianye</td></tr><tr><td>City</td><td>Zhengzhou</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Zhengzhou Hanghai Stadium</td></tr><tr><td>Stadium Capacity</td><td>29800</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [113.725409,34.716681,0]
+		}
+	},{
+		"id": "145",
+		"name": "Jiangsu Suning",
+		"description": "<table><tr><td>Team Name</td><td>Jiangsu Suning</td></tr><tr><td>City</td><td>Nanjing</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Nanjing Olympic Sports Center</td></tr><tr><td>Stadium Capacity</td><td>62000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [118.719625,32.010585,0]
+		}
+	},{
+		"id": "146",
+		"name": "Liaoning F.C.",
+		"description": "<table><tr><td>Team Name</td><td>Liaoning F.C.</td></tr><tr><td>City</td><td>Panjin</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Shenyang Olympic Sports Center Stadium</td></tr><tr><td>Stadium Capacity</td><td>60000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [123.457402,41.738977,0]
+		}
+	},{
+		"id": "147",
+		"name": "Shandong Luneng Taishan",
+		"description": "<table><tr><td>Team Name</td><td>Shandong Luneng Taishan</td></tr><tr><td>City</td><td>Jinan</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Jinan Olympic Sports Center Stadium</td></tr><tr><td>Stadium Capacity</td><td>56800</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [117.110267,36.656193,0]
+		}
+	},{
+		"id": "148",
+		"name": "Shanghai Greenland Shenhua",
+		"description": "<table><tr><td>Team Name</td><td>Shanghai Greenland Shenhua</td></tr><tr><td>City</td><td>Shanghai</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Hongkou Football Stadium</td></tr><tr><td>Stadium Capacity</td><td>33000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [121.476343,31.273378,0]
+		}
+	},{
+		"id": "149",
+		"name": "Shanghai SIPG",
+		"description": "<table><tr><td>Team Name</td><td>Shanghai SIPG</td></tr><tr><td>City</td><td>Shanghai</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Shanghai Stadium</td></tr><tr><td>Stadium Capacity</td><td>56800</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [121.437487,31.183442,0]
+		}
+	},{
+		"id": "150",
+		"name": "Shijiazhuang Ever Bright",
+		"description": "<table><tr><td>Team Name</td><td>Shijiazhuang Ever Bright</td></tr><tr><td>City</td><td>Shijiazhuang</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Yutong International Sports Center</td></tr><tr><td>Stadium Capacity</td><td>38000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [114.529197,38.041239,0]
+		}
+	},{
+		"id": "151",
+		"name": "Tianjin Teda",
+		"description": "<table><tr><td>Team Name</td><td>Tianjin Teda</td></tr><tr><td>City</td><td>Tianjin</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Tianjin Olympic Center Stadium</td></tr><tr><td>Stadium Capacity</td><td>54700</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [117.169545,39.073405,0]
+		}
+	},{
+		"id": "152",
+		"name": "Yanbian Funde",
+		"description": "<table><tr><td>Team Name</td><td>Yanbian Funde</td></tr><tr><td>City</td><td>Yanji</td></tr><tr><td>Country</td><td>China</td></tr><tr><td>League</td><td>Chinese Super League</td></tr><tr><td>Stadium Name</td><td>Yanji City Stadium</td></tr><tr><td>Stadium Capacity</td><td>35000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [129.414487,42.888787,0]
+		}
+	},{
+		"id": "153",
+		"name": "Albirex Niigata",
+		"description": "<table><tr><td>Team Name</td><td>Albirex Niigata</td></tr><tr><td>City</td><td>Niigata City</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Denka Big Swan Stadium</td></tr><tr><td>Stadium Capacity</td><td>42300</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [139.059023,37.882608,0]
+		}
+	},{
+		"id": "154",
+		"name": "Kashima Antlers",
+		"description": "<table><tr><td>Team Name</td><td>Kashima Antlers</td></tr><tr><td>City</td><td>Kashima</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Kashima Soccer Stadium</td></tr><tr><td>Stadium Capacity</td><td>40728</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [140.640456,35.991942,0]
+		}
+	},{
+		"id": "155",
+		"name": "Omiya Ardija",
+		"description": "<table><tr><td>Team Name</td><td>Omiya Ardija</td></tr><tr><td>City</td><td>Saitama</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Nack5 Stadium Omiya</td></tr><tr><td>Stadium Capacity</td><td>15500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [139.6311926,35.916158,0]
+		}
+	},{
+		"id": "156",
+		"name": "Avispa Fukuoka",
+		"description": "<table><tr><td>Team Name</td><td>Avispa Fukuoka</td></tr><tr><td>City</td><td>Hakata</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Level-5 Stadium</td></tr><tr><td>Stadium Capacity</td><td>22563</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [130.458613,33.5859576,0]
+		}
+	},{
+		"id": "157",
+		"name": "Shonan Bellmare",
+		"description": "<table><tr><td>Team Name</td><td>Shonan Bellmare</td></tr><tr><td>City</td><td>Hiratsuka</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Shonan BMW Stadium Hiratsuka</td></tr><tr><td>Stadium Capacity</td><td>18500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [139.3390331,35.3435324,0]
+		}
+	},{
+		"id": "158",
+		"name": "Yokohama F. Marinos",
+		"description": "<table><tr><td>Team Name</td><td>Yokohama F. Marinos</td></tr><tr><td>City</td><td>Yokohama</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Nissan Stadium</td></tr><tr><td>Stadium Capacity</td><td>72370</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [139.604205,35.5099461,0]
+		}
+	},{
+		"id": "159",
+		"name": "Kawasaki Frontale",
+		"description": "<table><tr><td>Team Name</td><td>Kawasaki Frontale</td></tr><tr><td>City</td><td>Kawasaki</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Kawasaki Todoroki Stadium</td></tr><tr><td>Stadium Capacity</td><td>26000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [139.6505332,35.5858076,0]
+		}
+	},{
+		"id": "160",
+		"name": "Gamba Osaka",
+		"description": "<table><tr><td>Team Name</td><td>Gamba Osaka</td></tr><tr><td>City</td><td>Osaka</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Suita City Football Stadium</td></tr><tr><td>Stadium Capacity</td><td>40000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [135.5359181,34.8027129,0]
+		}
+	},{
+		"id": "161",
+		"name": "Nagoya Grampus",
+		"description": "<table><tr><td>Team Name</td><td>Nagoya Grampus</td></tr><tr><td>City</td><td>Nagoya</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Toyota Stadium</td></tr><tr><td>Stadium Capacity</td><td>45000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [137.1687653,35.084528,0]
+		}
+	},{
+		"id": "162",
+		"name": "Jubilo Iwata",
+		"description": "<table><tr><td>Team Name</td><td>Jubilo Iwata</td></tr><tr><td>City</td><td>Iwata</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Yamaha Stadium</td></tr><tr><td>Stadium Capacity</td><td>15165</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [137.8728163,34.725217,0]
+		}
+	},{
+		"id": "163",
+		"name": "Urawa Red Diamonds",
+		"description": "<table><tr><td>Team Name</td><td>Urawa Red Diamonds</td></tr><tr><td>City</td><td>Saitama</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Saitama Stadium 2002</td></tr><tr><td>Stadium Capacity</td><td>63700</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [139.7154118,35.9035005,0]
+		}
+	},{
+		"id": "164",
+		"name": "Kashiwa Reysol",
+		"description": "<table><tr><td>Team Name</td><td>Kashiwa Reysol</td></tr><tr><td>City</td><td>Kashiwa</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Hitachi Kashiwa Stadium</td></tr><tr><td>Stadium Capacity</td><td>15900</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [139.9729787,35.8484877,0]
+		}
+	},{
+		"id": "165",
+		"name": "Sagan Tosu",
+		"description": "<table><tr><td>Team Name</td><td>Sagan Tosu</td></tr><tr><td>City</td><td>Tosu</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Best Amenity Stadium</td></tr><tr><td>Stadium Capacity</td><td>24490</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [130.5180288,33.3716907,0]
+		}
+	},{
+		"id": "166",
+		"name": "Sanfrecce Hiroshima",
+		"description": "<table><tr><td>Team Name</td><td>Sanfrecce Hiroshima</td></tr><tr><td>City</td><td>Hiroshima</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>EDION Stadium Hiroshima</td></tr><tr><td>Stadium Capacity</td><td>50000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [132.392178,34.4407422,0]
+		}
+	},{
+		"id": "167",
+		"name": "F.C. Tokyo",
+		"description": "<table><tr><td>Team Name</td><td>F.C. Tokyo</td></tr><tr><td>City</td><td>Tokyo</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Ajinomoto Stadium</td></tr><tr><td>Stadium Capacity</td><td>50100</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [139.5249621,35.6642695,0]
+		}
+	},{
+		"id": "168",
+		"name": "Vegalta Sendai",
+		"description": "<table><tr><td>Team Name</td><td>Vegalta Sendai</td></tr><tr><td>City</td><td>Sendai</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Yurtec Stadium Sendai</td></tr><tr><td>Stadium Capacity</td><td>19694</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [140.8789277,38.3191012,0]
+		}
+	},{
+		"id": "169",
+		"name": "Ventforet Kofu",
+		"description": "<table><tr><td>Team Name</td><td>Ventforet Kofu</td></tr><tr><td>City</td><td>Yamanashi</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>Yamanashi Chuo Bank Stadium</td></tr><tr><td>Stadium Capacity</td><td>17000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [138.5874917,35.6223833,0]
+		}
+	},{
+		"id": "170",
+		"name": "Vissel Kobe",
+		"description": "<table><tr><td>Team Name</td><td>Vissel Kobe</td></tr><tr><td>City</td><td>Kobe</td></tr><tr><td>Country</td><td>Japan</td></tr><tr><td>League</td><td>J-League</td></tr><tr><td>Stadium Name</td><td>NOEVIR Stadium Kobe</td></tr><tr><td>Stadium Capacity</td><td>30132</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [135.1664852,34.6570068,0]
+		}
 	}
 ]
