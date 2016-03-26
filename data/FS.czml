@@ -963,5 +963,405 @@
 		"position": {
 			"cartographicDegrees": [-96.1247743,19.164342,0]
 		}
+	},{
+		"id": "97",
+		"name": "Atalanta",
+		"description": "<table><tr><td>Team Name</td><td>Atalanta</td></tr><tr><td>City</td><td>Bergamo</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Atleti Azzurri d'Italia</td></tr><tr><td>Stadium Capacity</td><td>26638</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [9.6808264,45.7092056,0]
+		}
+	},{
+		"id": "98",
+		"name": "Bologna",
+		"description": "<table><tr><td>Team Name</td><td>Bologna</td></tr><tr><td>City</td><td>Bologna</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Renato Dall'Ara</td></tr><tr><td>Stadium Capacity</td><td>38279</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [11.3099641,44.4922894,0]
+		}
+	},{
+		"id": "99",
+		"name": "Carpi",
+		"description": "<table><tr><td>Team Name</td><td>Carpi</td></tr><tr><td>City</td><td>Carpi</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Alberto Braglia</td></tr><tr><td>Stadium Capacity</td><td>21151</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [10.9231836,44.653465,0]
+		}
+	},{
+		"id": "100",
+		"name": "Chievo",
+		"description": "<table><tr><td>Team Name</td><td>Chievo</td></tr><tr><td>City</td><td>Verona</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Marc'Antonio Bentegodi</td></tr><tr><td>Stadium Capacity</td><td>38402</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [10.9686559,45.4353091,0]
+		}
+	},{
+		"id": "101",
+		"name": "Empoli",
+		"description": "<table><tr><td>Team Name</td><td>Empoli</td></tr><tr><td>City</td><td>Empoli</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Carlo Castellani</td></tr><tr><td>Stadium Capacity</td><td>16800</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [10.9548503,43.7267873,0]
+		}
+	},{
+		"id": "102",
+		"name": "Fiorentina",
+		"description": "<table><tr><td>Team Name</td><td>Fiorentina</td></tr><tr><td>City</td><td>Florence</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Artemio Franchi</td></tr><tr><td>Stadium Capacity</td><td>47282</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [11.2825717,43.7808349,0]
+		}
+	},{
+		"id": "103",
+		"name": "Frosinone",
+		"description": "<table><tr><td>Team Name</td><td>Frosinone</td></tr><tr><td>City</td><td>Frosinone</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Matusa</td></tr><tr><td>Stadium Capacity</td><td>9680</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [13.3430265,41.637936,0]
+		}
+	},{
+		"id": "104",
+		"name": "Genoa",
+		"description": "<table><tr><td>Team Name</td><td>Genoa</td></tr><tr><td>City</td><td>Genoa</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Luigi Ferraris</td></tr><tr><td>Stadium Capacity</td><td>36536</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [8.9524953,44.4164093,0]
+		}
+	},{
+		"id": "105",
+		"name": "Internazionale",
+		"description": "<table><tr><td>Team Name</td><td>Internazionale</td></tr><tr><td>City</td><td>Milan</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>San Siro</td></tr><tr><td>Stadium Capacity</td><td>80018</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [9.123962,45.4781236,0]
+		}
+	},{
+		"id": "106",
+		"name": "Juventus",
+		"description": "<table><tr><td>Team Name</td><td>Juventus</td></tr><tr><td>City</td><td>Turin</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Juventus Stadium</td></tr><tr><td>Stadium Capacity</td><td>41475</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [7.6412644,45.109569,0]
+		}
+	},{
+		"id": "107",
+		"name": "Lazio",
+		"description": "<table><tr><td>Team Name</td><td>Lazio</td></tr><tr><td>City</td><td>Rome</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Olimpico</td></tr><tr><td>Stadium Capacity</td><td>70634</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [12.454725,41.934077,0]
+		}
+	},{
+		"id": "108",
+		"name": "AC Milan",
+		"description": "<table><tr><td>Team Name</td><td>AC Milan</td></tr><tr><td>City</td><td>Milan</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>San Siro</td></tr><tr><td>Stadium Capacity</td><td>80018</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [9.123962,45.4781236,0]
+		}
+	},{
+		"id": "109",
+		"name": "Napoli",
+		"description": "<table><tr><td>Team Name</td><td>Napoli</td></tr><tr><td>City</td><td>Naples</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio San Paolo</td></tr><tr><td>Stadium Capacity</td><td>60240</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [14.1930611,40.8279365,0]
+		}
+	},{
+		"id": "110",
+		"name": "Palermo",
+		"description": "<table><tr><td>Team Name</td><td>Palermo</td></tr><tr><td>City</td><td>Palermo</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Renzo Barbera</td></tr><tr><td>Stadium Capacity</td><td>36349</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [13.3422089,38.1527423,0]
+		}
+	},{
+		"id": "111",
+		"name": "Roma",
+		"description": "<table><tr><td>Team Name</td><td>Roma</td></tr><tr><td>City</td><td>Rome</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Olimpico</td></tr><tr><td>Stadium Capacity</td><td>70634</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [12.454725,41.934077,0]
+		}
+	},{
+		"id": "112",
+		"name": "Sampdoria",
+		"description": "<table><tr><td>Team Name</td><td>Sampdoria</td></tr><tr><td>City</td><td>Genoa</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Luigi Ferraris</td></tr><tr><td>Stadium Capacity</td><td>36536</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [8.9524953,44.4164093,0]
+		}
+	},{
+		"id": "113",
+		"name": "Sassuolo",
+		"description": "<table><tr><td>Team Name</td><td>Sassuolo</td></tr><tr><td>City</td><td>Sassuolo</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Mapei Stadium</td></tr><tr><td>Stadium Capacity</td><td>23717</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [10.649734,44.714609,0]
+		}
+	},{
+		"id": "114",
+		"name": "Torino",
+		"description": "<table><tr><td>Team Name</td><td>Torino</td></tr><tr><td>City</td><td>Turin</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Olimpico</td></tr><tr><td>Stadium Capacity</td><td>28140</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [7.6500522,45.0418233,0]
+		}
+	},{
+		"id": "115",
+		"name": "Udinese",
+		"description": "<table><tr><td>Team Name</td><td>Udinese</td></tr><tr><td>City</td><td>Udine</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Friuli</td></tr><tr><td>Stadium Capacity</td><td>25144</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [13.2006419,46.0819104,0]
+		}
+	},{
+		"id": "116",
+		"name": "Hellas Verona",
+		"description": "<table><tr><td>Team Name</td><td>Hellas Verona</td></tr><tr><td>City</td><td>Verona</td></tr><tr><td>Country</td><td>Italy</td></tr><tr><td>League</td><td>Serie A</td></tr><tr><td>Stadium Name</td><td>Stadio Marc'Antonio Bentegodi</td></tr><tr><td>Stadium Capacity</td><td>38402</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [10.9686559,45.4353091,0]
+		}
+	},{
+		"id": "117",
+		"name": "Angers SCO",
+		"description": "<table><tr><td>Team Name</td><td>Angers SCO</td></tr><tr><td>City</td><td>Angers</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade Jean-Bouin</td></tr><tr><td>Stadium Capacity</td><td>18000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.530794,47.4604315,0]
+		}
+	},{
+		"id": "118",
+		"name": "SC Bastia",
+		"description": "<table><tr><td>Team Name</td><td>SC Bastia</td></tr><tr><td>City</td><td>Bastia</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade Armand Cesari</td></tr><tr><td>Stadium Capacity</td><td>16480</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [9.442619,42.6514,0]
+		}
+	},{
+		"id": "119",
+		"name": "Girondins de Bordeaux",
+		"description": "<table><tr><td>Team Name</td><td>Girondins de Bordeaux</td></tr><tr><td>City</td><td>Bordeaux</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade Matmut Atlantique</td></tr><tr><td>Stadium Capacity</td><td>42115</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.5616023,44.8973882,0]
+		}
+	},{
+		"id": "120",
+		"name": "SM Caen",
+		"description": "<table><tr><td>Team Name</td><td>SM Caen</td></tr><tr><td>City</td><td>Caen</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade Michel d'Ornano</td></tr><tr><td>Stadium Capacity</td><td>21500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-0.3967094,49.1794872,0]
+		}
+	},{
+		"id": "121",
+		"name": "GFC Ajaccio",
+		"description": "<table><tr><td>Team Name</td><td>GFC Ajaccio</td></tr><tr><td>City</td><td>Ajaccio</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade Francois Coty</td></tr><tr><td>Stadium Capacity</td><td>10660</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [8.7763792,41.9309532,0]
+		}
+	},{
+		"id": "122",
+		"name": "EA Guingamp",
+		"description": "<table><tr><td>Team Name</td><td>EA Guingamp</td></tr><tr><td>City</td><td>Guingamp</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade du Roudourou</td></tr><tr><td>Stadium Capacity</td><td>18126</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-3.1643843,48.5660863,0]
+		}
+	},{
+		"id": "123",
+		"name": "Lille OSC",
+		"description": "<table><tr><td>Team Name</td><td>Lille OSC</td></tr><tr><td>City</td><td>Lille</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade Pierre-Mauroy</td></tr><tr><td>Stadium Capacity</td><td>50186</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [3.1304899,50.6119667,0]
+		}
+	},{
+		"id": "124",
+		"name": "FC Lorient",
+		"description": "<table><tr><td>Team Name</td><td>FC Lorient</td></tr><tr><td>City</td><td>Lorient</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade du Moustoir</td></tr><tr><td>Stadium Capacity</td><td>18500</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-3.3692827,47.7487894,0]
+		}
+	},{
+		"id": "125",
+		"name": "Olympique Lyonnais",
+		"description": "<table><tr><td>Team Name</td><td>Olympique Lyonnais</td></tr><tr><td>City</td><td>Lyon</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Parc Olympique Lyonnais</td></tr><tr><td>Stadium Capacity</td><td>59186</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [4.9767148,45.7697417,0]
+		}
+	},{
+		"id": "126",
+		"name": "Olympique de Marseille",
+		"description": "<table><tr><td>Team Name</td><td>Olympique de Marseille</td></tr><tr><td>City</td><td>Marseille</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade Velodrome</td></tr><tr><td>Stadium Capacity</td><td>67000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [5.3958873,43.269827,0]
+		}
+	},{
+		"id": "127",
+		"name": "AS Monaco",
+		"description": "<table><tr><td>Team Name</td><td>AS Monaco</td></tr><tr><td>City</td><td>Monaco</td></tr><tr><td>Country</td><td>Monaco</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade Louis II</td></tr><tr><td>Stadium Capacity</td><td>18523</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [7.4155355,43.7275562,0]
+		}
+	},{
+		"id": "128",
+		"name": "Montpellier HSC",
+		"description": "<table><tr><td>Team Name</td><td>Montpellier HSC</td></tr><tr><td>City</td><td>Montpellier</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade de la Mosson</td></tr><tr><td>Stadium Capacity</td><td>32900</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [3.8119627,43.6221667,0]
+		}
+	},{
+		"id": "129",
+		"name": "FC Nantes",
+		"description": "<table><tr><td>Team Name</td><td>FC Nantes</td></tr><tr><td>City</td><td>Nantes</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>La Beaujoire-Louis Fonteneau</td></tr><tr><td>Stadium Capacity</td><td>38285</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-1.5247253,47.2560513,0]
+		}
+	},{
+		"id": "130",
+		"name": "OGC Nice",
+		"description": "<table><tr><td>Team Name</td><td>OGC Nice</td></tr><tr><td>City</td><td>Nice</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Allianz Riviera</td></tr><tr><td>Stadium Capacity</td><td>35624</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [7.1925914,43.7051335,0]
+		}
+	},{
+		"id": "131",
+		"name": "Paris Saint-Germain",
+		"description": "<table><tr><td>Team Name</td><td>Paris Saint-Germain</td></tr><tr><td>City</td><td>Paris</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Parc des Princes</td></tr><tr><td>Stadium Capacity</td><td>48712</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [2.2530487,48.8414356,0]
+		}
+	},{
+		"id": "132",
+		"name": "Stade Rennais",
+		"description": "<table><tr><td>Team Name</td><td>Stade Rennais</td></tr><tr><td>City</td><td>Rennes</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Roazhon Park</td></tr><tr><td>Stadium Capacity</td><td>29778</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [-1.7129927,48.1074494,0]
+		}
+	},{
+		"id": "133",
+		"name": "Stade de Reims",
+		"description": "<table><tr><td>Team Name</td><td>Stade de Reims</td></tr><tr><td>City</td><td>Reims</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade Auguste Delaune</td></tr><tr><td>Stadium Capacity</td><td>21684</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [4.0247673,49.2471494,0]
+		}
+	},{
+		"id": "134",
+		"name": "AS Saint-Etienne",
+		"description": "<table><tr><td>Team Name</td><td>AS Saint-Etienne</td></tr><tr><td>City</td><td>Saint-Etienne</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade Geoffroy-Guichard</td></tr><tr><td>Stadium Capacity</td><td>42000</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [4.3901162,45.4607318,0]
+		}
+	},{
+		"id": "135",
+		"name": "Toulouse FC",
+		"description": "<table><tr><td>Team Name</td><td>Toulouse FC</td></tr><tr><td>City</td><td>Toulouse</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stadium Municipal</td></tr><tr><td>Stadium Capacity</td><td>33150</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [1.434048,43.5832972,0]
+		}
+	},{
+		"id": "136",
+		"name": "ESTAC Troyes",
+		"description": "<table><tr><td>Team Name</td><td>ESTAC Troyes</td></tr><tr><td>City</td><td>Troyes</td></tr><tr><td>Country</td><td>France</td></tr><tr><td>League</td><td>Ligue 1</td></tr><tr><td>Stadium Name</td><td>Stade de l'Aube</td></tr><tr><td>Stadium Capacity</td><td>21684</td></tr></table>",
+		"billboard": {
+			"image" : { "uri" : "./Soccer_Icon_Small.png" }
+		},
+		"position": {
+			"cartographicDegrees": [4.0984348,48.3075473,0]
+		}
 	}
 ]

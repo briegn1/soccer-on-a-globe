@@ -94,43 +94,43 @@
 94,UANL,San Nicolas de los Garza,Mexico,Liga MX,Estadio Universitario,42000,25.722428,-100.3119474
 95,UNAM,Mexico City,Mexico,Liga MX,Estadio Olimpico Universitario,52000,19.3318973,-99.19177
 96,Veracruz,Veracruz City,Mexico,Liga MX,Estadio Luis “Pirata” de la Fuente,28703,19.164342,-96.1247743
-97,Atalanta,Bergamo,Italy,Serie A,Atleti Azzurri d'Italia,26638,9.6808264,45.7092056
-98,Bologna,Bologna,Italy,Serie A,Stadio Renato Dall'Ara,38279,11.3099641,44.4922894
-99,Carpi,Carpi,Italy,Serie A,Stadio Alberto Braglia,21151,10.9231836,44.653465
-100,Chievo,Verona,Italy,Serie A,Stadio Marc'Antonio Bentegodi,38402,10.9686559,45.4353091
-101,Empoli,Empoli,Italy,Serie A,Stadio Carlo Castellani,16800,10.9548503,43.7267873
-102,Fiorentina,Florence,Italy,Serie A,Stadio Artemio Franchi,47282,11.2825717,43.7808349
-103,Frosinone,Frosinone,Italy,Serie A,Stadio Matusa,9680,13.3430265,41.637936
-104,Genoa,Genoa,Italy,Serie A,Stadio Luigi Ferraris,36536,8.9524953,44.4164093
-105,Internazionale,Milan,Italy,Serie A,San Siro,80018,9.123962,45.4781236
-106,Juventus,Turin,Italy,Serie A,Juventus Stadium,41475,7.6412644,45.109569
-107,Lazio,Rome,Italy,Serie A,Stadio Olimpico,70634,12.454725,41.934077
-108,AC Milan,Milan,Italy,Serie A,San Siro,80018,9.123962,45.4781236
-109,Napoli,Naples,Italy,Serie A,Stadio San Paolo,60240,14.1930611,40.8279365
-110,Palermo,Palermo,Italy,Serie A,Stadio Renzo Barbera,36349,13.3422089,38.1527423
-111,Roma,Rome,Italy,Serie A,Stadio Olimpico,70634,12.454725,41.934077
-112,Sampdoria,Genoa,Italy,Serie A,Stadio Luigi Ferraris,36536,8.9524953,44.4164093
-113,Sassuolo,Sassuolo,Italy,Serie A,Mapei Stadium,23717,10.649734,44.714609
-114,Torino,Turin,Italy,Serie A,Stadio Olimpico,28140,7.6500522,45.0418233
-115,Udinese,Udine,Italy,Serie A,Stadio Friuli,25144,13.2006419,46.0819104
-116,Hellas Verona,Verona,Italy,Serie A,Stadio Marc'Antonio Bentegodi,38402,10.9686559,45.4353091
-117,Angers SCO,Angers,France,Ligue 1,Stade Jean-Bouin,18000,-0.530794,47.4604315
-118,SC Bastia,Bastia,France,Ligue 1,Stade Armand Cesari,16480,9.442619,42.6514
-119,Girondins de Bordeaux,Bordeaux,France,Ligue 1,Stade Matmut Atlantique,42115,-0.5616023,44.8973882
-120,SM Caen,Caen,France,Ligue 1,Stade Michel d'Ornano,21500,-0.3967094,49.1794872
-121,GFC Ajaccio,Ajaccio,France,Ligue 1,Stade Francois Coty,10660,8.7763792,41.9309532
-122,EA Guingamp,Guingamp,France,Ligue 1,Stade du Roudourou,18126,-3.1643843,48.5660863
-123,Lille OSC,Lille,France,Ligue 1,Stade Pierre-Mauroy,50186,3.1304899,50.6119667
-124,FC Lorient,Lorient,France,Ligue 1,Stade du Moustoir,18500,-3.3692827,47.7487894
-125,Olympique Lyonnais,Lyon,France,Ligue 1,Parc Olympique Lyonnais,59186,4.9767148,45.7697417
-126,Olympique de Marseille,Marseille,France,Ligue 1,Stade Velodrome,67000,5.3958873,43.269827
-127,AS Monaco,Monaco,Monaco,Ligue 1,Stade Louis II,18523,7.4155355,43.7275562
-128,Montpellier HSC,Montpellier,France,Ligue 1,Stade de la Mosson,32900,3.8119627,43.6221667
-129,FC Nantes,Nantes,France,Ligue 1,La Beaujoire-Louis Fonteneau,38285,-1.5247253,47.2560513
-130,OGC Nice,Nice,France,Ligue 1,Allianz Riviera,35624,7.1925914,43.7051335
-131,Paris Saint-Germain,Paris,France,Ligue 1,Parc des Princes,48712,2.2530487,48.8414356
-132,Stade Rennais,Rennes,France,Ligue 1,Roazhon Park,29778,-1.7129927,48.1074494
-133,Stade de Reims,Reims,France,Ligue 1,Stade Auguste Delaune,21684,4.0247673,49.2471494
-134,AS Saint-Etienne,Saint-Etienne,France,Ligue 1,Stade Geoffroy-Guichard,42000,4.3901162,45.4607318
-135,Toulouse FC,Toulouse,France,Ligue 1,Stadium Municipal,33150,1.434048,43.5832972
-136,ESTAC Troyes,Troyes,France,Ligue 1,Stade de l'Aube,21684,4.0984348,48.3075473
+97,Atalanta,Bergamo,Italy,Serie A,Atleti Azzurri d'Italia,26638,45.7092056,9.6808264
+98,Bologna,Bologna,Italy,Serie A,Stadio Renato Dall'Ara,38279,44.4922894,11.3099641
+99,Carpi,Carpi,Italy,Serie A,Stadio Alberto Braglia,21151,44.653465,10.9231836
+100,Chievo,Verona,Italy,Serie A,Stadio Marc'Antonio Bentegodi,38402,45.4353091,10.9686559
+101,Empoli,Empoli,Italy,Serie A,Stadio Carlo Castellani,16800,43.7267873,10.9548503
+102,Fiorentina,Florence,Italy,Serie A,Stadio Artemio Franchi,47282,43.7808349,11.2825717
+103,Frosinone,Frosinone,Italy,Serie A,Stadio Matusa,9680,41.637936,13.3430265
+104,Genoa,Genoa,Italy,Serie A,Stadio Luigi Ferraris,36536,44.4164093,8.9524953
+105,Internazionale,Milan,Italy,Serie A,San Siro,80018,45.4781236,9.123962
+106,Juventus,Turin,Italy,Serie A,Juventus Stadium,41475,45.109569,7.6412644
+107,Lazio,Rome,Italy,Serie A,Stadio Olimpico,70634,41.934077,12.454725
+108,AC Milan,Milan,Italy,Serie A,San Siro,80018,45.4781236,9.123962
+109,Napoli,Naples,Italy,Serie A,Stadio San Paolo,60240,40.8279365,14.1930611
+110,Palermo,Palermo,Italy,Serie A,Stadio Renzo Barbera,36349,38.1527423,13.3422089
+111,Roma,Rome,Italy,Serie A,Stadio Olimpico,70634,41.934077,12.454725
+112,Sampdoria,Genoa,Italy,Serie A,Stadio Luigi Ferraris,36536,44.4164093,8.9524953
+113,Sassuolo,Sassuolo,Italy,Serie A,Mapei Stadium,23717,44.714609,10.649734
+114,Torino,Turin,Italy,Serie A,Stadio Olimpico,28140,45.0418233,7.6500522
+115,Udinese,Udine,Italy,Serie A,Stadio Friuli,25144,46.0819104,13.2006419
+116,Hellas Verona,Verona,Italy,Serie A,Stadio Marc'Antonio Bentegodi,38402,45.4353091,10.9686559
+117,Angers SCO,Angers,France,Ligue 1,Stade Jean-Bouin,18000,47.4604315,-0.530794
+118,SC Bastia,Bastia,France,Ligue 1,Stade Armand Cesari,16480,42.6514,9.442619
+119,Girondins de Bordeaux,Bordeaux,France,Ligue 1,Stade Matmut Atlantique,42115,44.8973882,-0.5616023
+120,SM Caen,Caen,France,Ligue 1,Stade Michel d'Ornano,21500,49.1794872,-0.3967094
+121,GFC Ajaccio,Ajaccio,France,Ligue 1,Stade Francois Coty,10660,41.9309532,8.7763792
+122,EA Guingamp,Guingamp,France,Ligue 1,Stade du Roudourou,18126,48.5660863,-3.1643843
+123,Lille OSC,Lille,France,Ligue 1,Stade Pierre-Mauroy,50186,50.6119667,3.1304899
+124,FC Lorient,Lorient,France,Ligue 1,Stade du Moustoir,18500,47.7487894,-3.3692827
+125,Olympique Lyonnais,Lyon,France,Ligue 1,Parc Olympique Lyonnais,59186,45.7697417,4.9767148
+126,Olympique de Marseille,Marseille,France,Ligue 1,Stade Velodrome,67000,43.269827,5.3958873
+127,AS Monaco,Monaco,Monaco,Ligue 1,Stade Louis II,18523,43.7275562,7.4155355
+128,Montpellier HSC,Montpellier,France,Ligue 1,Stade de la Mosson,32900,43.6221667,3.8119627
+129,FC Nantes,Nantes,France,Ligue 1,La Beaujoire-Louis Fonteneau,38285,47.2560513,-1.5247253
+130,OGC Nice,Nice,France,Ligue 1,Allianz Riviera,35624,43.7051335,7.1925914
+131,Paris Saint-Germain,Paris,France,Ligue 1,Parc des Princes,48712,48.8414356,2.2530487
+132,Stade Rennais,Rennes,France,Ligue 1,Roazhon Park,29778,48.1074494,-1.7129927
+133,Stade de Reims,Reims,France,Ligue 1,Stade Auguste Delaune,21684,49.2471494,4.0247673
+134,AS Saint-Etienne,Saint-Etienne,France,Ligue 1,Stade Geoffroy-Guichard,42000,45.4607318,4.3901162
+135,Toulouse FC,Toulouse,France,Ligue 1,Stadium Municipal,33150,43.5832972,1.434048
+136,ESTAC Troyes,Troyes,France,Ligue 1,Stade de l'Aube,21684,48.3075473,4.0984348
