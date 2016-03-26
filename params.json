@@ -1,0 +1,6 @@
+{
+  "name": "Soccer-on-a-globe",
+  "tagline": "Visualizing international soccer clubs and stadiums using CesiumJS",
+  "body": "# soccer-on-a-globe\r\nVisualizing international soccer clubs and stadiums using CesiumJS\r\n\r\nTo Do List:\r\n - Set up github demo page for showing off...\r\n - Fix Japanese and German Stadium coordinates (stupid Google Maps!)\r\n - Add more leagues (Off top of head, Portuguese, Scottish, Russian...hell, all of Champions League...Korean, various South American, Egyptian)\r\n - Fix initial camera position (currently defaults to the centroid of all the points, which makes it random)\r\n - Add instructions for use",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
